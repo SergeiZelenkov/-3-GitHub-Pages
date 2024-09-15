@@ -1,3 +1,3 @@
 ## Über mich
 
-**Ich versuche ***GitHub*** zu lernen**
+**Ich versuche GitHub zu lernen**
